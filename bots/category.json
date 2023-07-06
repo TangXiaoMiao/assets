@@ -1,0 +1,72 @@
+[
+    {
+        "id": "AI对话工具",
+        "name": "AI对话工具",
+        "icon": "https://ai-bot.cn/wp-content/uploads/2023/03/stability-ai-icon.png"
+    },
+    {
+        "id": "AI训练模型",
+        "name": "AI训练模型",
+        "icon": "https://ai-bot.cn/wp-content/uploads/2023/03/stability-ai-icon.png"
+    },
+    {
+        "id": "AI图像工具",
+        "name": "AI图像工具",
+        "icon": "https://ai-bot.cn/wp-content/uploads/2023/03/stability-ai-icon.png"
+    },
+    {
+        "id": "AI写作工具",
+        "name": "AI写作工具",
+        "icon": "https://ai-bot.cn/wp-content/uploads/2023/03/stability-ai-icon.png"
+    },
+    {
+        "id": "AI办公工具",
+        "name": "AI办公工具",
+        "icon": "https://ai-bot.cn/wp-content/uploads/2023/03/stability-ai-icon.png"
+    },
+    {
+        "id": "AI音频工具",
+        "name": "AI音频工具",
+        "icon": "https://ai-bot.cn/wp-content/uploads/2023/03/stability-ai-icon.png"
+    },
+    {
+        "id": "AI视频工具",
+        "name": "AI视频工具",
+        "icon": "https://ai-bot.cn/wp-content/uploads/2023/03/stability-ai-icon.png"
+    },
+    {
+        "id": "AI设计工具",
+        "name": "AI设计工具",
+        "icon": "https://ai-bot.cn/wp-content/uploads/2023/03/stability-ai-icon.png"
+    },
+    {
+        "id": "AI编程工具",
+        "name": "AI编程工具",
+        "icon": "https://ai-bot.cn/wp-content/uploads/2023/03/stability-ai-icon.png"
+    },
+    {
+        "id": "AI语言翻译",
+        "name": "AI语言翻译",
+        "icon": "https://ai-bot.cn/wp-content/uploads/2023/03/stability-ai-icon.png"
+    },
+    {
+        "id": "AI内容检测",
+        "name": "AI内容检测",
+        "icon": "https://ai-bot.cn/wp-content/uploads/2023/03/stability-ai-icon.png"
+    },
+    {
+        "id": "AI提示指令",
+        "name": "AI提示指令",
+        "icon": "https://ai-bot.cn/wp-content/uploads/2023/03/stability-ai-icon.png"
+    },
+    {
+        "id": "AI学习网站",
+        "name": "AI学习网站",
+        "icon": "https://ai-bot.cn/wp-content/uploads/2023/03/stability-ai-icon.png"
+    },
+    {
+        "id": "AI开发框架",
+        "name": "AI开发框架",
+        "icon": "https://ai-bot.cn/wp-content/uploads/2023/03/stability-ai-icon.png"
+    }
+]
